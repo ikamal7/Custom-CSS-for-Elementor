@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Custom CSS for Elementor
- * Plugin URI: https://kamal.pw/
+ * Plugin URI: https://github.com/ikamal7/Custom-CSS-for-Elementor
  * Description: This plugin helps you add custom CSS to any widget of Elementor.
  * Version: 1.0.0
  * Author: Kamal Hosen
