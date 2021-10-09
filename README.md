@@ -13,7 +13,7 @@ Made with ❣️ By [Kamal](https://kamal.pw/)
 
 # Installation
 
-### Automatic installation =
+### Automatic installation
 
 1. Log into your WordPress admin
 2. Click **Plugins**
@@ -22,7 +22,7 @@ Made with ❣️ By [Kamal](https://kamal.pw/)
 5. Click **Install Now** under \"Custom CSS for Elementor\"
 6. Activate the plugin
 
-= Manual installation =
+### Manual installation
 
 1. Download the plugin
 2. Extract the contents of the zip file
